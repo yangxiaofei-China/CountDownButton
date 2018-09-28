@@ -1,6 +1,9 @@
 # CountDownButton
 ## 介绍：
 用于在android app添加倒计时功能按钮，可用于获取验证码功能
+## 效果
+<img src="https://raw.githubusercontent.com/yangxiaofei-China/CountDownButton/master/CountDownButton.gif" width="300"/>    
+
 ## 功能：  
 1、最基础的当然就是倒计时功能了。  
 2、可以设置倒计时开始和结束的回调方法。  
