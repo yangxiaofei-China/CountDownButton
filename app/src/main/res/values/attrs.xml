@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <declare-styleable name="CountDownButton">
+        <attr name="time" format="integer"/>
+        <attr name="startText" format="string"/>
+        <attr name="countDownText" format="string"/>
+        <attr name="endText" format="string"/>
+        <attr name="startTextColor" format="color"/>
+        <attr name="countDownTextColor" format="color"/>
+        <attr name="endTextColor" format="color"/>
+    </declare-styleable>
+
+</resources>
