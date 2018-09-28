@@ -1,4 +1,4 @@
-package com.hanergy.countdownbutton;
+package com.yxf.countdownbutton;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.hanergy.countdownbutton", appContext.getPackageName());
+        assertEquals("com.yxf.countdownbutton", appContext.getPackageName());
     }
 }

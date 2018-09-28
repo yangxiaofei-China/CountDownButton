@@ -5,9 +5,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.hanergy.countdownbutton.MainActivity">
+    tools:context="com.yxf.countdownbutton.MainActivity">
 
-    <com.hanergy.countdownbutton.CountDownButton
+    <com.yxf.countdownbutton.CountDownButton
         android:id="@+id/count_down_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
